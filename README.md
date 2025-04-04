@@ -1,2 +1,2 @@
 # testing-github
-belajar mengenai gihub
+belajar mengenai github repo ini di gunakan sebagai bahan percobaan
