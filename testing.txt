@@ -2,7 +2,9 @@ makanan favorit
 - nasi goreng
 - mie ayam 
 - nasi padang
+- bakso
 
 minuman favorit 
 - nutrisari
-- jus sirsa
+- jus sirsak
+- air putih
